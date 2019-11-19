@@ -28,7 +28,7 @@ namespace bb_api
         {
             //Database contexts
             services.AddDbContext<LoginTrackingContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LoginTrackingDatabase")));
-
+            services.AddDbContext<StaffDirectoryContext>(options => options.UseSqlServer(Configuration.GetConnectionString("StaffDirectoryDatabase")));
             services.AddControllers();
         }
 
