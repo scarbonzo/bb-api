@@ -1,0 +1,9 @@
+/bb-api/bin/Debug
+/bb-api/obj/Debug
+/bb-api/appsettings.json
+/bb-api/appsettings.Development.json
+/.vs/bb-api/v16/.suo
+/.vs/bb-api/v16/Server/sqlite3/db.lock
+/.vs/bb-api/v16/Server/sqlite3/storage.ide
+/.vs/bb-api/v16/Server/sqlite3/storage.ide-shm
+/.vs/bb-api/v16/Server/sqlite3/storage.ide-wal
